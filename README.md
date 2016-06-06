@@ -1,1 +1,1 @@
-# launch_prep
+# Launch School repo
