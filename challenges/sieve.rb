@@ -19,5 +19,3 @@ class Sieve
     list_of_primes
   end
 end
-
-# primes(1000) #=> [2, 3, 5, 7]
