@@ -32,6 +32,3 @@ end
 
 class InvalidCodonError < StandardError
 end
-
-# Translation.of_rna('UGGUGUUAUUAAUGGUUU') #=> 'Methionine'
-# Translation.of_codon('AUG') #=> 'Methionine'

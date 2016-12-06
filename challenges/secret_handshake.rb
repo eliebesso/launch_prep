@@ -28,6 +28,3 @@ class SecretHandshake
     binary / 10_000 == 1 ? moves.reverse : moves
   end
 end
-
-handshake = SecretHandshake.new(31)
-handshake.commands
